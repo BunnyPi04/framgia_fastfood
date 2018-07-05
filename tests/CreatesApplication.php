@@ -23,3 +23,5 @@ trait CreatesApplication
         return $app;
     }
 }
+
+echo "like";
